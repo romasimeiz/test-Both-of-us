@@ -79,6 +79,7 @@ const styles = StyleSheet.create({
     },
     scrollViewContainer: {
         paddingHorizontal: 15,
+        height: '100%'
     },
     topSideBar: {
         justifyContent: 'space-between',
