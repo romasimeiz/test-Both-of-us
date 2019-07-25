@@ -18,7 +18,7 @@ import {
 import DocumentPicker from "react-native-document-picker";
 import styles from "./styles";
 import { AddButton, FileCard } from "../../components";
-import type {FileInfo, MainScreenState} from "./types";
+import type { FileInfo, MainScreenState } from "./types";
 
 class MainScreen extends Component<{}, MainScreenState> {
 
